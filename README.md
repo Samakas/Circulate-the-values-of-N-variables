@@ -20,6 +20,9 @@ Print both the values it would be interchanged
 End the program
 ## Program:
 ```python
+Developed By: Samakash.R.S
+Register Number: 212223230182
+
 def circulate():
     values=eval(input())
     n=int(input())
@@ -27,10 +30,10 @@ def circulate():
         temp=values.pop(0)
         values.append(temp)
     print("After circulating the values are:",values)
+
 ```
 
 ## Output:
-![Screenshot 2024-03-09 100949](https://github.com/Samakas/Circulate-the-values-of-N-variables/assets/154731670/9a834802-ce6a-4d28-aa09-c429a4280993)
-
+![alt text](<Screenshot 2024-04-06 102520.png>)
 ## Result:
 The output for circulate the values of n variables is successfull.
